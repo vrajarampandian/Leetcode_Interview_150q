@@ -5,7 +5,7 @@ Each solution is written in **C++**, with a focus on **clarity, optimal complexi
 
 Problem Categories
 Category	              Status	           No. of Problems
-Array / String	        ✅ In Progress	      6
+Array / String	        ✅ Completed	      10
 Two Pointers	          🔜 Upcoming	
 Sliding Window	        🔜 Upcoming	
 Matrix	                🔜 Upcoming	
