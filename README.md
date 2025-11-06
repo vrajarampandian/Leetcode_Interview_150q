@@ -6,7 +6,7 @@ Each solution is written in **C++**, with a focus on **clarity, optimal complexi
 Problem Categories
 Category	              Status	           No. of Problems
 Array / String	        ✅ Completed	      10
-Two Pointers	          ⏳ In Progress 	     1
+Two Pointers	          ⏳ In Progress 	     3
 Sliding Window	        🔜 Upcoming	
 Matrix	                🔜 Upcoming	
 HashMap / Set	          🔜 Upcoming	
@@ -33,8 +33,8 @@ Binary Search	          🔜 Upcoming
 
 📈 Progress Tracker
 
-✅ Solved: 7 / 150
+✅ Solved: 9 / 150
 
 🕒 In Progress: 0
 
-🔜 To Do: 144
+🔜 To Do: 141
