@@ -1,40 +1,36 @@
-This repository contains my solutions to the **LeetCode Interview 150** problems.
-The goal is to strengthen problem-solving skills, master data structures and algorithms, and prepare efficiently for top tech interviews.
+📘 LeetCode Interview 150 – C++ Solutions
 
-Each solution is written in **C++**, with a focus on **clarity, optimal complexity, and detailed explanation**.
+This repository contains my solutions to the LeetCode Interview 150 problems.
+The goal is to strengthen problem-solving skills, master data structures & algorithms, and prepare efficiently for top tech interviews.
 
-Problem Categories
-Category	              Status	           No. of Problems
-Array / String	        ✅ Completed	      10
-Two Pointers	          ⏳ In Progress 	     3
-Sliding Window	        🔜 Upcoming	
-Matrix	                🔜 Upcoming	
-HashMap / Set	          🔜 Upcoming	
-Stack / Queue	          🔜 Upcoming	
-Linked List	            🔜 Upcoming	
-Binary Tree	            🔜 Upcoming	
-Heap / Priority Queue	  🔜 Upcoming	
-Graph / BFS / DFS	      🔜 Upcoming	
-Dynamic Programming	    🔜 Upcoming	
-Greedy	                🔜 Upcoming	
-Binary Search	          🔜 Upcoming
+Each solution is written in C++, focusing on:
 
-**Folder Structure******
-├── Arrays/
-│   ├── Two_Sum.cpp
-│   ├── remove_duplicate_sorted_Array.cpp
-│   └── ...
-│
-├── Strings/
-│   ├── Valid_Parentheses.cpp
-│   └── ...
-│
-├── README.md
+✔️ Clean & readable code
+
+⚡ Optimal time & space complexity
+
+📝 Clear explanations
+
+| Category              | Status        | Problems |
+| --------------------- | ------------- | -------- |
+| Array / String        | ✅ Completed   | 10       |
+| Two Pointers          | ⏳ In Progress | 4        |
+| Sliding Window        | 🔜 Upcoming   | —        |
+| Matrix                | 🔜 Upcoming   | —        |
+| HashMap / Set         | 🔜 Upcoming   | —        |
+| Stack / Queue         | ⏳ In Progress   | 3        |
+| Linked List           | 🔜 Upcoming   | —        |
+| Binary Tree           | 🔜 Upcoming   | —        |
+| Heap / Priority Queue | 🔜 Upcoming   | —        |
+| Graph / BFS / DFS     | 🔜 Upcoming   | —        |
+| Dynamic Programming   | 🔜 Upcoming   | —        |
+| Greedy                | 🔜 Upcoming   | —        |
+| Binary Search         | 🔜 Upcoming   | —        |
 
 📈 Progress Tracker
 
-✅ Solved: 9 / 150
+✅ Solved: 17 / 150
 
 🕒 In Progress: 0
 
-🔜 To Do: 141
+🔜 To Do: 133
