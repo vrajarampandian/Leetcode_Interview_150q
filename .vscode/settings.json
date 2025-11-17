@@ -51,6 +51,7 @@
         "xutility": "cpp",
         "algorithm": "cpp",
         "optional": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "string": "cpp"
     }
 }
