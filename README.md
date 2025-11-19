@@ -25,7 +25,7 @@ Each solution is written in C++, focusing on:
 | Graph / BFS / DFS     | 🔜 Upcoming   | —        |
 | Dynamic Programming   | 🔜 Upcoming   | —        |
 | Greedy                | 🔜 Upcoming   | —        |
-| Binary Search         | 🔜 Upcoming   | —        |
+| Binary Search         | ⏳ In Progress   | 2       |
 
 📈 Progress Tracker
 
