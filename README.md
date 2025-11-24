@@ -15,22 +15,22 @@ Each solution is written in C++, focusing on:
 | --------------------- | ------------- | -------- |
 | Array / String        | ✅ Completed   | 10       |
 | Two Pointers          | ⏳ In Progress | 4        |
-| Sliding Window        | 🔜 Upcoming   | —        |
+| Sliding Window        | ⏳ In Progress   | 2        |
 | Matrix                | 🔜 Upcoming   | —        |
 | HashMap / Set         | 🔜 Upcoming   | —        |
-| Stack / Queue         | ⏳ In Progress   | 3        |
+| Stack / Queue         | ⏳ In Progress   | 4        |
 | Linked List           | 🔜 Upcoming   | —        |
 | Binary Tree           | 🔜 Upcoming   | —        |
 | Heap / Priority Queue | 🔜 Upcoming   | —        |
 | Graph / BFS / DFS     | 🔜 Upcoming   | —        |
 | Dynamic Programming   | 🔜 Upcoming   | —        |
 | Greedy                | 🔜 Upcoming   | —        |
-| Binary Search         | ⏳ In Progress   | 2       |
+| Binary Search         | ⏳ In Progress   | 4       |
 
 📈 Progress Tracker
 
-✅ Solved: 17 / 150
+✅ Solved: 24 / 150
 
 🕒 In Progress: 0
 
-🔜 To Do: 133
+🔜 To Do: 126
