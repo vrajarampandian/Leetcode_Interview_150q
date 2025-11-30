@@ -19,8 +19,8 @@ Each solution is written in C++, focusing on:
 | Matrix                | 🔜 Upcoming   | —        |
 | HashMap / Set         | 🔜 Upcoming   | —        |
 | Stack / Queue         | ⏳ In Progress   | 4        |
-| Linked List           | 🔜 Upcoming   | —        |
-| Binary Tree           | 🔜 Upcoming   | —        |
+| Linked List           | 🔜 Upcoming   | 3        |
+| Binary Tree           | 🔜 Upcoming   | 3        |
 | Heap / Priority Queue | 🔜 Upcoming   | —        |
 | Graph / BFS / DFS     | 🔜 Upcoming   | —        |
 | Dynamic Programming   | 🔜 Upcoming   | —        |
@@ -29,8 +29,8 @@ Each solution is written in C++, focusing on:
 
 📈 Progress Tracker
 
-✅ Solved: 24 / 150
+✅ Solved: 30 / 150
 
 🕒 In Progress: 0
 
-🔜 To Do: 126
+🔜 To Do: 120
