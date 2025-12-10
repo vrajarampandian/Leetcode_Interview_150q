@@ -13,14 +13,14 @@ Each solution is written in C++, focusing on:
 
 | Category              | Status        | Problems |
 | --------------------- | ------------- | -------- |
-| Array / String        | ✅ Completed   | 10       |
-| Two Pointers          | ⏳ In Progress | 4        |
+| Array / String        | ⏳ In Progress   | 13       |
+| Two Pointers          | ⏳ In Progress | 5        |
 | Sliding Window        | ⏳ In Progress   | 2        |
 | Matrix                | 🔜 Upcoming   | —        |
 | HashMap / Set         | 🔜 Upcoming   | —        |
 | Stack / Queue         | ⏳ In Progress   | 4        |
 | Linked List           | 🔜 Upcoming   | 3        |
-| Binary Tree           | 🔜 Upcoming   | 3        |
+| Binary Tree           | 🔜 Upcoming   | 6        |
 | Heap / Priority Queue | 🔜 Upcoming   | —        |
 | Graph / BFS / DFS     | 🔜 Upcoming   | —        |
 | Dynamic Programming   | 🔜 Upcoming   | —        |
