@@ -13,11 +13,11 @@ Each solution is written in C++, focusing on:
 
 | Category              | Status        | Problems |
 | --------------------- | ------------- | -------- |
-| Array / String        | ⏳ In Progress   | 13       |
+| Array / String        | ⏳ In Progress   | 15       |
 | Two Pointers          | ⏳ In Progress | 5        |
 | Sliding Window        | ⏳ In Progress   | 2        |
 | Matrix                | 🔜 Upcoming   | —        |
-| HashMap / Set         | 🔜 Upcoming   | —        |
+| HashMap / Set         | 🔜 Upcoming   | 6       |
 | Stack / Queue         | ⏳ In Progress   | 4        |
 | Linked List           | 🔜 Upcoming   | 3        |
 | Binary Tree           | 🔜 Upcoming   | 6        |
@@ -29,8 +29,8 @@ Each solution is written in C++, focusing on:
 
 📈 Progress Tracker
 
-✅ Solved: 30 / 150
+✅ Solved: 45 / 150
 
 🕒 In Progress: 0
 
-🔜 To Do: 120
+🔜 To Do: 105
