@@ -1,7 +1,18 @@
 #include<iostream>
 #include<unordered_map>
 using namespace std;
+/*
+Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
+Symbol       Value
+I             1
+V             5
+X             10
+L             50
+C             100
+D             500
+M             1000
+*/
 int romanToInt(string s) {
         unordered_map<char, int> v = {
             {'I', 1},{'V', 5}, {'X', 10},
